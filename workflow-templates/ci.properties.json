@@ -1,0 +1,10 @@
+{
+    "name": "Prometheus Workflow",
+    "description": "Prometheus CI workflow template.",
+    "categories": [
+        "Erlang"
+    ],
+    "filePatterns": [
+        "rebar.config"
+    ]
+}
